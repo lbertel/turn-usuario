@@ -1,4 +1,4 @@
-package io.lbertel.turn.cliente.app;
+package io.lbertel.turn.app.cliente;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

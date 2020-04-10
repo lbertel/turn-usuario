@@ -1,4 +1,4 @@
-package io.lbertel.turn.cliente.app;
+package io.lbertel.turn.app.cliente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
